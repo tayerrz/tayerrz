@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### This is Fernando Roldán!
+### This is Tayer Ruze!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/tayerrz)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ruzetayer@gmail.com)
