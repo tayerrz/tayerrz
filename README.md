@@ -8,4 +8,7 @@
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=tayerrz" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tayerrz&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tayerrz&theme=Default" />
+</div>
