@@ -4,7 +4,10 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/tayerrz)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ruzetayer@gmail.com)
 
-Welcome to my Github page! I am Tayer a simple Uighur boy and I am currently finishing my Educational Technology degree at the Shanghai Normal University!  
+Welcome to my Github page! I am Tayer a simple Uighur boy and I am currently finishing my Educational Technology degree at the Shanghai Normal University! 
+
+
+你也可以叫我 保安 😊
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
