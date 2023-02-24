@@ -48,7 +48,7 @@ Welcome to my Github page! I am Tayer a simple Uighur boy and I am currently fin
 
 </p>
 <h2 align="center">Github stats :bar_chart:</h2>
-<h4 align="center">Visitor's count :eyes:</h4>
+<h4 align="center">访客数&Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{tayerrz}/count.svg" alt="tayerrz :: Visitor's Count" /></p>
 <div align="center">
 <span>  </span>
