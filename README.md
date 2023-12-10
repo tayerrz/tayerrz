@@ -4,7 +4,6 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/tayerrz)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ruzetayer@gmail.com)
 
-微信/WeChat:Sleeptye
 
 Welcome to my Github page! I am Tayer a simple boy and I am currently finishing my Educational Technology degree at the Shanghai Normal University! 
 
